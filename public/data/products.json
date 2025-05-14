@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Coca cola 0,5",
+    "description": "Loream heuoah hrfouaeho hreah",
+    "price": 12000,
+    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 2,
+    "name": "Pepsi 1L",
+    "description": "Refreshing and fizzy, perfect for parties",
+    "price": 15000,
+    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 3,
+    "name": "Lay's Classic Chips",
+    "description": "Crispy potato chips with a salty kick",
+    "price": 10000,
+    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
+    "type": "tech"
+  },
+  {
+    "id": 4,
+    "name": "Snickers Bar",
+    "description": "Chocolate bar filled with caramel and peanuts",
+    "price": 7000,
+    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
+    "type": "tech"
+  },
+  {
+    "id": 5,
+    "name": "Nestle Water 1.5L",
+    "description": "Pure mineral water for daily hydration",
+    "price": 6000,
+    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 6,
+    "name": "Red Bull Energy Drink",
+    "description": "Boost your energy with a powerful kick",
+    "price": 14000,
+    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
+    "type": "electronics"
+  },
+  {
+    "id": 7,
+    "name": "Fanta Orange 1L",
+    "description": "Bright citrus soda for a refreshing experience",
+    "price": 13000,
+    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
+    "type": "electronics"
+  },
+  {
+    "id": 8,
+    "name": "Sprite Lemon-Lime 0.5L",
+    "description": "Cool and light with a zesty lemon taste",
+    "price": 11000,
+    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 9,
+    "name": "Cheetos Cheese",
+    "description": "Cheesy and crunchy snack favorite",
+    "price": 10000,
+    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
+    "type": "clothing"
+  },
+  {
+    "id": 10,
+    "name": "Twix Bar",
+    "description": "Crunchy cookie, caramel, and chocolate",
+    "price": 7000,
+    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
+    "type": "clothing"
+  },
+  {
+    "id": 11,
+    "name": "BonAqua Water 1L",
+    "description": "Clean and clear mineral water",
+    "price": 5500,
+    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 12,
+    "name": "Monster Energy",
+    "description": "High-performance energy drink",
+    "price": 16000,
+    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
+    "type": "shoes"
+  },
+  {
+    "id": 13,
+    "name": "Mirinda Strawberry",
+    "description": "Sweet and bubbly strawberry soda",
+    "price": 12500,
+    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
+    "type": "shoes"
+  },
+  {
+    "id": 14,
+    "name": "Pringles Original",
+    "description": "Stackable chips with a classic flavor",
+    "price": 14000,
+    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
+    "type": "tech"
+  },
+  {
+    "id": 15,
+    "name": "Bounty Bar",
+    "description": "Chocolate and coconut in perfect harmony",
+    "price": 7500,
+    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
+    "type": "tech"
+  },
+  {
+    "id": 16,
+    "name": "Lipton Ice Tea Peach",
+    "description": "Cool iced tea with sweet peach flavor",
+    "price": 12000,
+    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
+    "type": "shoes"
+  },
+  {
+    "id": 17,
+    "name": "Pepsi Max 0.5L",
+    "description": "Zero sugar, full taste cola drink",
+    "price": 11500,
+    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
+    "type": "electronics"
+  },
+  {
+    "id": 18,
+    "name": "7UP Mojito",
+    "description": "Lime and mint flavored soda drink",
+    "price": 12500,
+    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
+    "type": "electronics"
+  },
+  {
+    "id": 19,
+    "name": "KitKat Bar",
+    "description": "Crispy wafer covered with milk chocolate",
+    "price": 6500,
+    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
+    "type": "clothing"
+  },
+  {
+    "id": 20,
+    "name": "Nestle Water 0.5L",
+    "description": "Compact and refreshing mineral water",
+    "price": 4500,
+    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
+    "type": "health"
+  },
+  {
+    "id": 21,
+    "name": "Burn Energy Drink",
+    "description": "Strong energy drink to keep you going",
+    "price": 14500,
+    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
+    "type": "clothing"
+  }
+]
