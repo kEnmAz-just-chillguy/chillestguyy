@@ -16,7 +16,7 @@ function ShoesPage({ products, addToBasket }) {
             <Link to={"/tech"}>Maishiy texnika </Link>
         </button>
         <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
-            <Link to={"/clothing"}> Kiyim</Link>
+            <Link to={"/clothing"}> Kiyims</Link>
         </button>
         <button className="btn btn-sm join-item bg-purple-800 text-white rounded-lg">
           <Link to={"/shoes"}>  Poyabzal </Link>
