@@ -25,7 +25,7 @@ setLoader(false)
       {/* Навигационные кнопки */}
       <div className="join px-4 lg:px-16 mt-5 gap-2 flex flex-wrap justify-center items-center">
         <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg m-1">
-          <Link to={"/electronic"}>Elektronika</Link>
+          <Link to={"/electronic"}>Elektronikas</Link>
         </button>
         <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg m-1">
           <Link to={"/tech"}>Maishiy texnika</Link>
