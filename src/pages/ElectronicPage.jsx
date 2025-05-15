@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 function ElectronicPage({ products, addToBasket }) {
   return (
     <main>
-      <div className="join px-4 lg:px-16 mt-5 gap-2 flex flex-wrap justify-center items-center">
+      <div className="join px-4 lg:px-16 mt-5 gap-2 flex flex-wrap justify-center items-center ">
         <button className="btn btn-sm join-item bg-purple-800 text-white rounded-lg">
           <Link to={"/electronic"}>Elektronika</Link>
         </button>
