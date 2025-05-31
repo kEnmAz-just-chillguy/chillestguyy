@@ -79,7 +79,7 @@ function Navbar({ basket, basketList }) {
               <a>Settings</a>
             </li>
             <li>
-              <a>Logout</a>
+              <Link to={"/inut"}>Sign U</Link>
             </li>
           </ul>
         </div>

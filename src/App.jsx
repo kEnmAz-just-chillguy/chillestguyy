@@ -13,6 +13,7 @@ import TechPage from "./pages/TechPage";
 import ClothingPage from "./pages/ClothingPage";
 import ShoesPage from "./pages/ShoesPage";
 import HealthPage from "./pages/HealthPage";
+import SignUpPage from "./pages/SignUpPage";
 
 function App() {
   const [basket, setBasket] = useState([]);
@@ -63,6 +64,7 @@ function App() {
           path="/health"
           element={<HealthPage products={products} addToBasket={addToBasket} />}
         />
+        <Route  path="/inut" element={<SignUpPage/>} />
       </Routes>
 
       <Footer />
