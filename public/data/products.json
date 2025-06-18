@@ -2,169 +2,421 @@
   {
     "id": 1,
     "name": "Coca cola 0,5",
-    "description": "Loream heuoah hrfouaeho hreah",
+    "description": "Classic Coca-Cola in a 500ml bottle. The original refreshing taste with its unique flavor that has been enjoyed worldwide for decades. Perfectly chilled for maximum enjoyment.",
     "price": 12000,
-    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/cia493tenntd8rfc2s40/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.2,
+    "rateCount": 315
   },
   {
     "id": 2,
     "name": "Pepsi 1L",
-    "description": "Refreshing and fizzy, perfect for parties",
+    "description": "Refreshing and fizzy Pepsi in a 1-liter bottle. The bold cola taste with a perfect balance of sweetness and carbonation. Ideal for parties and gatherings.",
     "price": 15000,
-    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/crha8n9bjcvd8a76bt10/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 3.8,
+    "rateCount": 412
   },
   {
     "id": 3,
     "name": "Lay's Classic Chips",
-    "description": "Crispy potato chips with a salty kick",
+    "description": "Crispy golden potato chips with just the right amount of salt. Made from premium quality potatoes for that perfect crunch in every bite. A timeless snack favorite.",
     "price": 10000,
-    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
-    "type": "tech"
+    "img": "https://images.uzum.uz/ccv712jb3ho5lmuq0v1g/original.jpg",
+    "type": "chips",
+    "rate": 4.6,
+    "rateCount": 912
   },
   {
     "id": 4,
     "name": "Snickers Bar",
-    "description": "Chocolate bar filled with caramel and peanuts",
+    "description": "Delicious chocolate bar packed with nougat, caramel and roasted peanuts. The perfect combination of textures and flavors to satisfy your hunger and sweet tooth.",
     "price": 7000,
-    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
-    "type": "tech"
+    "img": "https://images.uzum.uz/clblb5fn7c6qm23ja8m0/original.jpg",
+    "type": "chocolate",
+    "rate": 4.4,
+    "rateCount": 873
   },
   {
     "id": 5,
     "name": "Nestle Water 1.5L",
-    "description": "Pure mineral water for daily hydration",
+    "description": "Pure, natural mineral water in a 1.5-liter bottle. Sourced from protected springs, it's perfect for daily hydration and maintaining a healthy lifestyle.",
     "price": 6000,
-    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/cupd05k5j42bjc4epfc0/original.jpg",
+    "type": "water",
+    "rate": 3.9,
+    "rateCount": 243
   },
   {
     "id": 6,
     "name": "Red Bull Energy Drink",
-    "description": "Boost your energy with a powerful kick",
+    "description": "The original energy drink that gives you wings. Contains taurine, caffeine and B-vitamins to improve concentration and reaction speed. Perfect for when you need an extra boost.",
     "price": 14000,
-    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
-    "type": "electronics"
+    "img": "https://images.uzum.uz/cmbdef1s99ouqbfpj00g/original.jpg",
+    "type": "energetic",
+    "rate": 4.5,
+    "rateCount": 513
   },
   {
     "id": 7,
     "name": "Fanta Orange 1L",
-    "description": "Bright citrus soda for a refreshing experience",
+    "description": "Bright, bubbly orange soda with a bold citrus flavor. The perfect refreshing drink for hot summer days or anytime you crave something sweet and tangy.",
     "price": 13000,
-    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
-    "type": "electronics"
+    "img": "https://images.uzum.uz/ce8a878v1htd23airm6g/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 3.7,
+    "rateCount": 221
   },
   {
     "id": 8,
     "name": "Sprite Lemon-Lime 0.5L",
-    "description": "Cool and light with a zesty lemon taste",
+    "description": "Crisp, clean and lemon-lime flavored soda. Caffeine-free with a light, refreshing taste that cleanses your palate and quenches your thirst.",
     "price": 11000,
-    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/cth89ckopsf31vcqkfrg/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.0,
+    "rateCount": 369
   },
   {
     "id": 9,
     "name": "Cheetos Cheese",
-    "description": "Cheesy and crunchy snack favorite",
+    "description": "Irresistibly cheesy and crunchy corn snacks. That bold cheese flavor you love with the signature finger-dusting powder that makes them so addictive.",
     "price": 10000,
-    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
-    "type": "clothing"
+    "img": "https://images.uzum.uz/cv3eailpb7f9qcnfma5g/original.jpg",
+    "type": "chips",
+    "rate": 4.1,
+    "rateCount": 456
   },
   {
     "id": 10,
     "name": "Twix Bar",
-    "description": "Crunchy cookie, caramel, and chocolate",
+    "description": "Delicious cookie bars covered in caramel and milk chocolate. The perfect combination of crunchy cookie, gooey caramel and creamy chocolate in every bite.",
     "price": 7000,
-    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
-    "type": "clothing"
+    "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7331045566.jpg",
+    "type": "chocolate",
+    "rate": 3.6,
+    "rateCount": 312
   },
   {
     "id": 11,
     "name": "BonAqua Water 1L",
-    "description": "Clean and clear mineral water",
+    "description": "Pure, refreshing drinking water in a convenient 1-liter bottle. Perfect for staying hydrated at home, work or on the go. Clean taste with essential minerals.",
     "price": 5500,
-    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/ciaiqdj6edfostihis70/original.jpg",
+    "type": "water",
+    "rate": 3.5,
+    "rateCount": 198
   },
   {
     "id": 12,
     "name": "Monster Energy",
-    "description": "High-performance energy drink",
+    "description": "Powerful energy drink with a unique monster blend of energy ingredients. Double-sized can delivers twice the energy boost when you need it most.",
     "price": 16000,
-    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
-    "type": "shoes"
+    "img": "https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7558951270.jpg",
+    "type": "energetic",
+    "rate": 4.8,
+    "rateCount": 677
   },
   {
     "id": 13,
     "name": "Mirinda Strawberry",
-    "description": "Sweet and bubbly strawberry soda",
+    "description": "Sweet, fruity strawberry flavored soda with vibrant red color and bubbly carbonation. A fun, flavorful alternative to traditional citrus sodas.",
     "price": 12500,
-    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
-    "type": "shoes"
+    "img": "https://images.uzum.uz/ck8hju4vutv5dskpving/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.0,
+    "rateCount": 354
   },
   {
     "id": 14,
     "name": "Pringles Original",
-    "description": "Stackable chips with a classic flavor",
+    "description": "Iconic stackable potato crisps with their unique saddle shape and perfect crunch. The original savory flavor that started the Pringles phenomenon.",
     "price": 14000,
-    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
-    "type": "tech"
+    "img": "https://images.uzum.uz/ck3gu6cvutvccfo2hm30/original.jpg",
+    "type": "chips",
+    "rate": 4.6,
+    "rateCount": 849
   },
   {
     "id": 15,
     "name": "Bounty Bar",
-    "description": "Chocolate and coconut in perfect harmony",
+    "description": "Tropical paradise in every bite - moist coconut filling enveloped in rich milk chocolate. A taste of the tropics wherever you are.",
     "price": 7500,
-    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
-    "type": "tech"
+    "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7331045271.jpg",
+    "type": "chocolate",
+    "rate": 3.9,
+    "rateCount": 289
   },
   {
     "id": 16,
     "name": "Lipton Ice Tea Peach",
-    "description": "Cool iced tea with sweet peach flavor",
+    "description": "Refreshing iced tea with natural peach flavor. Brewed from real tea leaves for authentic taste, with just the right amount of sweetness.",
     "price": 12000,
-    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
-    "type": "shoes"
+    "img": "https://images.uzum.uz/cf77ccqvtie1lhbhavc0/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.3,
+    "rateCount": 523
   },
   {
     "id": 17,
     "name": "Pepsi Max 0.5L",
-    "description": "Zero sugar, full taste cola drink",
+    "description": "All the great Pepsi taste with zero sugar. Bold cola flavor with maximum taste but no calories. Perfect for those watching their sugar intake.",
     "price": 11500,
-    "img": "https://images.uzum.uz/cslpeitpq3ghb2qn9030/t_product_540_high.jpg",
-    "type": "electronics"
+    "img": "https://images.uzum.uz/crha8n9bjcvd8a76bt10/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.1,
+    "rateCount": 408
   },
   {
     "id": 18,
     "name": "7UP Mojito",
-    "description": "Lime and mint flavored soda drink",
+    "description": "Limited edition 7UP with refreshing mojito flavor. Crisp lemon-lime soda with a hint of mint for a uniquely refreshing experience.",
     "price": 12500,
-    "img": "https://images.uzum.uz/cdjjht3b3ho5lmurhut0/t_product_540_high.jpg",
-    "type": "electronics"
+    "img": "https://images.uzum.uz/cq769jr5qt1qbnojsttg/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.2,
+    "rateCount": 334
   },
   {
     "id": 19,
     "name": "KitKat Bar",
-    "description": "Crispy wafer covered with milk chocolate",
+    "description": "Crispy wafer fingers covered in smooth milk chocolate. The perfect break-time treat with its signature snap and satisfying texture.",
     "price": 6500,
-    "img": "https://images.uzum.uz/crokgvchug2lhico3bn0/t_product_540_high.jpg",
-    "type": "clothing"
+    "img": "https://ir.ozone.ru/s3/multimedia-h/wc1000/6608772629.jpg",
+    "type": "chocolate",
+    "rate": 4.5,
+    "rateCount": 601
   },
   {
     "id": 20,
     "name": "Nestle Water 0.5L",
-    "description": "Compact and refreshing mineral water",
+    "description": "Compact 500ml bottle of pure natural mineral water. Perfect for on-the-go hydration with its convenient size that fits in bags and cup holders.",
     "price": 4500,
-    "img": "https://images.uzum.uz/cpfbtvjmdtjnp7387lng/t_product_540_high.jpg",
-    "type": "health"
+    "img": "https://images.uzum.uz/cupd05k5j42bjc4epfc0/original.jpg",
+    "type": "water",
+    "rate": 3.7,
+    "rateCount": 204
   },
   {
     "id": 21,
     "name": "Burn Energy Drink",
-    "description": "Strong energy drink to keep you going",
+    "description": "Intense energy drink with powerful formula to fuel your adventures. Contains caffeine, taurine and guarana for maximum energy boost when you need it.",
     "price": 14500,
-    "img": "https://images.uzum.uz/ct23or3vgbkpg1no8e5g/t_product_540_high.jpg",
-    "type": "clothing"
+    "img": "https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7315221284.jpg",
+    "type": "energetic",
+    "rate": 4.4,
+    "rateCount": 788
+  },
+  {
+    "id": 22,
+    "name": "Coca cola 0,5",
+    "description": "Classic Coca-Cola in a 500ml bottle. The original refreshing taste with its unique flavor that has been enjoyed worldwide for decades. Perfectly chilled for maximum enjoyment.",
+    "price": 12000,
+    "img": "https://images.uzum.uz/cia493tenntd8rfc2s40/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.2,
+    "rateCount": 315
+  },
+  {
+    "id": 23,
+    "name": "Pepsi 1L",
+    "description": "Refreshing and fizzy Pepsi in a 1-liter bottle. The bold cola taste with a perfect balance of sweetness and carbonation. Ideal for parties and gatherings.",
+    "price": 15000,
+    "img": "https://images.uzum.uz/crha8n9bjcvd8a76bt10/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 3.8,
+    "rateCount": 412
+  },
+  {
+    "id": 24,
+    "name": "Lay's Classic Chips",
+    "description": "Crispy golden potato chips with just the right amount of salt. Made from premium quality potatoes for that perfect crunch in every bite. A timeless snack favorite.",
+    "price": 10000,
+    "img": "https://images.uzum.uz/ccv712jb3ho5lmuq0v1g/original.jpg",
+    "type": "chips",
+    "rate": 4.6,
+    "rateCount": 912
+  },
+  {
+    "id": 25,
+    "name": "Snickers Bar",
+    "description": "Delicious chocolate bar packed with nougat, caramel and roasted peanuts. The perfect combination of textures and flavors to satisfy your hunger and sweet tooth.",
+    "price": 7000,
+    "img": "https://images.uzum.uz/clblb5fn7c6qm23ja8m0/original.jpg",
+    "type": "chocolate",
+    "rate": 4.4,
+    "rateCount": 873
+  },
+  {
+    "id": 26,
+    "name": "Nestle Water 1.5L",
+    "description": "Pure, natural mineral water in a 1.5-liter bottle. Sourced from protected springs, it's perfect for daily hydration and maintaining a healthy lifestyle.",
+    "price": 6000,
+    "img": "https://images.uzum.uz/cupd05k5j42bjc4epfc0/original.jpg",
+    "type": "water",
+    "rate": 3.9,
+    "rateCount": 243
+  },
+  {
+    "id": 27,
+    "name": "Red Bull Energy Drink",
+    "description": "The original energy drink that gives you wings. Contains taurine, caffeine and B-vitamins to improve concentration and reaction speed. Perfect for when you need an extra boost.",
+    "price": 14000,
+    "img": "https://images.uzum.uz/cmbdef1s99ouqbfpj00g/original.jpg",
+    "type": "energetic",
+    "rate": 4.5,
+    "rateCount": 513
+  },
+  {
+    "id": 28,
+    "name": "Fanta Orange 1L",
+    "description": "Bright, bubbly orange soda with a bold citrus flavor. The perfect refreshing drink for hot summer days or anytime you crave something sweet and tangy.",
+    "price": 13000,
+    "img": "https://images.uzum.uz/ce8a878v1htd23airm6g/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 3.7,
+    "rateCount": 221
+  },
+  {
+    "id": 29,
+    "name": "Sprite Lemon-Lime 0.5L",
+    "description": "Crisp, clean and lemon-lime flavored soda. Caffeine-free with a light, refreshing taste that cleanses your palate and quenches your thirst.",
+    "price": 11000,
+    "img": "https://images.uzum.uz/cth89ckopsf31vcqkfrg/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.0,
+    "rateCount": 369
+  },
+  {
+    "id": 30,
+    "name": "Cheetos Cheese",
+    "description": "Irresistibly cheesy and crunchy corn snacks. That bold cheese flavor you love with the signature finger-dusting powder that makes them so addictive.",
+    "price": 10000,
+    "img": "https://images.uzum.uz/cv3eailpb7f9qcnfma5g/original.jpg",
+    "type": "chips",
+    "rate": 4.1,
+    "rateCount": 456
+  },
+  {
+    "id": 31,
+    "name": "Twix Bar",
+    "description": "Delicious cookie bars covered in caramel and milk chocolate. The perfect combination of crunchy cookie, gooey caramel and creamy chocolate in every bite.",
+    "price": 7000,
+    "img": "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7331045566.jpg",
+    "type": "chocolate",
+    "rate": 3.6,
+    "rateCount": 312
+  },
+  {
+    "id": 32,
+    "name": "BonAqua Water 1L",
+    "description": "Pure, refreshing drinking water in a convenient 1-liter bottle. Perfect for staying hydrated at home, work or on the go. Clean taste with essential minerals.",
+    "price": 5500,
+    "img": "https://images.uzum.uz/ciaiqdj6edfostihis70/original.jpg",
+    "type": "water",
+    "rate": 3.5,
+    "rateCount": 198
+  },
+  {
+    "id": 33,
+    "name": "Monster Energy",
+    "description": "Powerful energy drink with a unique monster blend of energy ingredients. Double-sized can delivers twice the energy boost when you need it most.",
+    "price": 16000,
+    "img": "https://ir.ozone.ru/s3/multimedia-1-m/wc1000/7558951270.jpg",
+    "type": "energetic",
+    "rate": 4.8,
+    "rateCount": 677
+  },
+  {
+    "id": 34,
+    "name": "Mirinda Strawberry",
+    "description": "Sweet, fruity strawberry flavored soda with vibrant red color and bubbly carbonation. A fun, flavorful alternative to traditional citrus sodas.",
+    "price": 12500,
+    "img": "https://images.uzum.uz/ck8hju4vutv5dskpving/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.0,
+    "rateCount": 354
+  },
+  {
+    "id": 35,
+    "name": "Pringles Original",
+    "description": "Iconic stackable potato crisps with their unique saddle shape and perfect crunch. The original savory flavor that started the Pringles phenomenon.",
+    "price": 14000,
+    "img": "https://images.uzum.uz/ck3gu6cvutvccfo2hm30/original.jpg",
+    "type": "chips",
+    "rate": 4.6,
+    "rateCount": 849
+  },
+  {
+    "id": 36,
+    "name": "Bounty Bar",
+    "description": "Tropical paradise in every bite - moist coconut filling enveloped in rich milk chocolate. A taste of the tropics wherever you are.",
+    "price": 7500,
+    "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/7331045271.jpg",
+    "type": "chocolate",
+    "rate": 3.9,
+    "rateCount": 289
+  },
+  {
+    "id": 37,
+    "name": "Lipton Ice Tea Peach",
+    "description": "Refreshing iced tea with natural peach flavor. Brewed from real tea leaves for authentic taste, with just the right amount of sweetness.",
+    "price": 12000,
+    "img": "https://images.uzum.uz/cf77ccqvtie1lhbhavc0/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.3,
+    "rateCount": 523
+  },
+  {
+    "id": 38,
+    "name": "Pepsi Max 0.5L",
+    "description": "All the great Pepsi taste with zero sugar. Bold cola flavor with maximum taste but no calories. Perfect for those watching their sugar intake.",
+    "price": 11500,
+    "img": "https://images.uzum.uz/crha8n9bjcvd8a76bt10/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.1,
+    "rateCount": 408
+  },
+  {
+    "id": 39,
+    "name": "7UP Mojito",
+    "description": "Limited edition 7UP with refreshing mojito flavor. Crisp lemon-lime soda with a hint of mint for a uniquely refreshing experience.",
+    "price": 12500,
+    "img": "https://images.uzum.uz/cq769jr5qt1qbnojsttg/original.jpg",
+    "type": "fizzy-drink",
+    "rate": 4.2,
+    "rateCount": 334
+  },
+  {
+    "id": 40,
+    "name": "KitKat Bar",
+    "description": "Crispy wafer fingers covered in smooth milk chocolate. The perfect break-time treat with its signature snap and satisfying texture.",
+    "price": 6500,
+    "img": "https://ir.ozone.ru/s3/multimedia-h/wc1000/6608772629.jpg",
+    "type": "chocolate",
+    "rate": 4.5,
+    "rateCount": 601
+  },
+  {
+    "id": 41,
+    "name": "Nestle Water 0.5L",
+    "description": "Compact 500ml bottle of pure natural mineral water. Perfect for on-the-go hydration with its convenient size that fits in bags and cup holders.",
+    "price": 4500,
+    "img": "https://images.uzum.uz/cupd05k5j42bjc4epfc0/original.jpg",
+    "type": "water",
+    "rate": 3.7,
+    "rateCount": 204
+  },
+  {
+    "id": 42,
+    "name": "Burn Energy Drink",
+    "description": "Intense energy drink with powerful formula to fuel your adventures. Contains caffeine, taurine and guarana for maximum energy boost when you need it.",
+    "price": 14500,
+    "img": "https://ir.ozone.ru/s3/multimedia-1-8/wc1000/7315221284.jpg",
+    "type": "energetic",
+    "rate": 4.4,
+    "rateCount": 788
   }
 ]

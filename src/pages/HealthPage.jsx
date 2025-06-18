@@ -9,21 +9,21 @@ function HealthPage({ products, addToBasket }) {
   return (
     <main>
       <div className="join px-4 lg:px-16 mt-5 gap-2 flex flex-wrap justify-center items-center ">
-        <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
-          <Link to={"/electronic"}>Elektronika</Link>
-        </button>
-        <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
-          <Link to={"/tech"}>Maishiy texnika</Link>
-        </button>
-        <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
-          <Link to={"/clothing"}>Kiyim</Link>
-        </button>
-        <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
-          <Link to={"/shoes"}>Poyabzal</Link>
-        </button>
-        <button className="btn btn-sm join-item bg-purple-800 text-white rounded-lg">
-          <Link to={"/health"}>Salomatlik</Link>
-        </button>
+      <button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
+  <Link to={"/water"}>Water</Link>
+</button>
+<button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
+  <Link to={"/energetic"}>Energetic</Link>
+</button>
+<button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
+  <Link to={"/fizzy-drink"}>Fizzy-drink</Link>
+</button>
+<button className="btn btn-sm join-item bg-purple-400 text-white rounded-lg">
+  <Link to={"/chips"}>Chips</Link>
+</button>
+<button className="btn btn-sm join-item bg-purple-800 text-white rounded-lg">
+  <Link to={"/chocolate"}>Chocolate</Link>
+</button>
       </div>
 
       <section className="px-4 sm:px-16 mt-12">
@@ -34,7 +34,7 @@ function HealthPage({ products, addToBasket }) {
 
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 mt-3">
           {products
-            .filter((item) => item.type === "health")
+            .filter((item) => item.type === "chocolate")
             .map((item) => (
               <Card
                 key={item.id}

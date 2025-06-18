@@ -14,12 +14,12 @@ function Card({ star, cardIcon, title,addToBasket }) {
       </Link>
       <div className="card-body px-2 py-3">
         <p className="font-bold">{title.name}</p>
-        <p>{title.description}</p>
+        <p className="line-clamp-2">{title.description}</p>
      
         <div className="flex items-center gap-1">
           <img src={star} alt="star" className="w-3" />
           <p className="text-xs text-gray-400 font-medium">
-            4.9 (297 sharhlar)
+            {title.rate} ({title.rateCount} sharhlar)
           </p>
         </div>
 
