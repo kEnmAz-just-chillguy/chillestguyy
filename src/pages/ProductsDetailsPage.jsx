@@ -55,7 +55,7 @@ function ProductsDetailsPage() {
   return (
     <main className="flex flex-col lg:flex-row min-h-screen items-center justify-center    px-4 lg:px-16 py-12 gap-8 lg:gap-16">
   
-    <div className=" flex flex-col lg:flex-row gap-8 rounded-3xl gap-50">
+    <div className=" flex flex-col lg:flex-row  rounded-3xl gap-15">
       <div className="flex-1 flex flex-col rounded-3xl">
         <div className="relative rounded-2xl w-full max-w-lg aspect-square p-6  transition-all duration-500">
           <img
