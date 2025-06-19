@@ -43,11 +43,9 @@ function Navbar({ basket, basketList ,mainPrice}) {
             <div className="card-body">
               <span className="text-lg font-bold">{basket} Items</span>
               <span className="text-info">Subtotal: ${mainPrice}</span>
-              <div className="card-actions">
-                <button className="btn btn-primary btn-block">View cart</button>
-              </div>
+             
               <div className="flex flex-col gap-2 max-h-40 overflow-y-auto">
-                {basketList.map((item, i) => (
+        {basketList.map((item, i) => (
                   <MiniCard key={i} item={item} />
                 ))}
               </div>
