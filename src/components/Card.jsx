@@ -25,7 +25,7 @@ function Card({ star, cardIcon, title,addToBasket }) {
 
         <div className="flex">
           <span className="text-xs text-black bg-yellow-300 px-1 rounded">
-            {Math.trunc(title.price / 12)} so'm/ 12 oyga
+            {Math.trunc(title.price / 12)} $/ 12 oyga
           </span>
         </div>
 

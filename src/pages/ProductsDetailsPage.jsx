@@ -5,8 +5,8 @@ import cardIcon from "../assets/icons8-fast-cart-96.png";
 import Like from "../components/Like";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-function ProductsDetailsPage() {
-  const { id } = useParams();
+function ProductsDetailsPage({addToBasket, products}) {
+  const { id } = useParams(); 
   const [product, setProduct] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -78,18 +78,18 @@ function ProductsDetailsPage() {
                 <StarIcon key={i} className="w-5 h-5 fill-current" />
               ))}
             </div>
-            <span className="text-sm text-gray-500">({product.rateCount} sharhlar)</span>
+            <span className="text-sm text-gray-500">({product.rateCount} Rates)</span>
           </div>
 
           <p className="text-gray-700 mb-6 font-medium text-xl leading-relaxed">{product.description}</p>
 
           <div className="mb-8">
-            <span className="text-3xl font-extrabold text-green-600">{product.price.toLocaleString()} so'm</span>
+            <span className="text-3xl font-extrabold text-green-600">$ {product.price.toLocaleString()}</span>
           </div>
 
           <div className="flex gap-4">
-            <button className="flex-1 bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white font-medium py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5">
-              Sotib olish
+            <button onClick={() => addToBasket(product)} className="flex-1 bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white font-medium py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5">
+              Add to basket
             </button>
             <button className="w-12 h-12 flex items-center justify-center bg-white border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors duration-300">
               <Like className="w-6 h-6" />
@@ -102,8 +102,6 @@ function ProductsDetailsPage() {
       </div>
     </div>
   </main>
-  // You would need these icon components (or replace with your own)
- 
   );
 }
 
