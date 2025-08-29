@@ -6,12 +6,12 @@ function Card({ star, cardIcon, title,addToBasket }) {
    <Link to={"/detail/" + title.id}>  
       <figure className="h-73 ">
         <img
-        className="transition-transform duration-300 group-hover:scale-105 "
+        className="transition-transform duration-300 group-hover:scale-105  "
           src={title.img}
           alt="Shoes"
         />
       </figure>
-      </Link>
+        </Link>
       <div className="card-body px-2 py-3">
         <p className="font-bold">{title.name}</p>
         <p className="line-clamp-2">{title.description}</p>

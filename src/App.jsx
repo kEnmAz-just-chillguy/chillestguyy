@@ -14,6 +14,8 @@
   import ShoesPage from "./pages/ShoesPage";
   import HealthPage from "./pages/HealthPage";
   import SignUpPage from "./pages/SignUpPage";
+import List from "daisyui/components/list";
+import ListPages from "./components/ListPages";
 
   function App() {
     const [basket, setBasket] = useState([]);
@@ -66,7 +68,7 @@
     return (
       <>
         <Navbar basket={totalQuantity} basketList={basket} mainPrice={mainPrice} />
-
+        <ListPages/>
         <Routes>
           <Route
             path="/"

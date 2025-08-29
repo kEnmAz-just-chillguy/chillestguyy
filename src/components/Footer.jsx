@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="flex flex-col sm:flex-row items-center justify-between bg-neutral text-neutral-content  sm:px-16  py-10">
+    <footer className="ml-50   flex flex-col sm:flex-row items-center justify-between bg-neutral text-neutral-content  sm:px-16  py-10">
       <aside className="text-center sm:text-left mb-6 sm:mb-0">
         <svg
           width="50"
