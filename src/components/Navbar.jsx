@@ -16,10 +16,10 @@ function Navbar({ basket, basketList ,mainPrice}) {
     </Link>
   </div>
 
-  <div className="flex-none flex gap-2 mt-2 lg:mt-0 mr-10">
-    <div className="dropdown dropdown-end">
-      <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
-        <button className="indicator">
+  <div className="flex-none flex gap-2 mt-2 lg:mt-0 mr-10 ">
+    <div className="dropdown dropdown-end ">
+      <div tabIndex={0} role="button" className="btn btn-ghost btn-circle transition duration-300 ease-in-out ">
+        <button className="indicator ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-5 w-5"
@@ -45,7 +45,7 @@ function Navbar({ basket, basketList ,mainPrice}) {
           <span className="text-lg font-bold">{basket} Items</span>
           <span className="text-info">Subtotal: ${mainPrice}</span>
 
-          <div className="flex flex-col gap-2 max-h-40 overflow-y-auto">
+          <div className=" flex flex-col gap-2 max-h-40 overflow-y-auto">
             {basketList.map((item, i) => (
               <MiniCard key={i} item={item} />
             ))}

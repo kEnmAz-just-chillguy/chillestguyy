@@ -16,6 +16,7 @@
   import SignUpPage from "./pages/SignUpPage";
 import List from "daisyui/components/list";
 import ListPages from "./components/ListPages";
+import Searcher from "./components/Searcher";
 
   function App() {
     const [basket, setBasket] = useState([]);
@@ -68,8 +69,10 @@ import ListPages from "./components/ListPages";
     return (
       <>
         <Navbar basket={totalQuantity} basketList={basket} mainPrice={mainPrice} />
+        <Searcher/>
         <ListPages/>
-        <Routes>
+
+        {/* <Routes>
           <Route
             path="/"
             element={<HomePage products={products} addToBasket={addToBasket} />}
@@ -100,7 +103,7 @@ import ListPages from "./components/ListPages";
             element={<HealthPage products={products} addToBasket={addToBasket} />}
           />
           <Route  path="/inut" element={<SignUpPage/>} />
-        </Routes>
+        </Routes> */}
 
         <Footer />
       </>
